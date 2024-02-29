@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OshYawfgELPcxcDshl6iVoEr2/ulIBFiaxSrBQFFpIaHqIvqgDkom3MQEf2eHP7Bk4F7k7V9pim8h4LkLvNtmQ==",
+  "dgSpecHash": "YwnQzvS884M078ThnHLBwhBbPIIV+7MBS8dVDbA+tLfkgcauMCqJkAiVrLhv/s+21MQxPrkE+mAjT8mo7SEwrw==",
   "success": true,
-  "projectFilePath": "/Users/greendal/Projects/MailSender/MailSender.csproj",
+  "projectFilePath": "/Users/greendal/Documents/GitHub/Email-Sending-Software/MailSender.csproj",
   "expectedPackageFiles": [
     "/Users/greendal/.nuget/packages/bouncycastle.cryptography/2.2.1/bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "/Users/greendal/.nuget/packages/mailkit/4.3.0/mailkit.4.3.0.nupkg.sha512",

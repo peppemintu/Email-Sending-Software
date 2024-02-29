@@ -364,11 +364,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/greendal/Projects/MailSender/MailSender.csproj",
+      "projectUniqueName": "/Users/greendal/Documents/GitHub/Email-Sending-Software/MailSender.csproj",
       "projectName": "MailSender",
-      "projectPath": "/Users/greendal/Projects/MailSender/MailSender.csproj",
+      "projectPath": "/Users/greendal/Documents/GitHub/Email-Sending-Software/MailSender.csproj",
       "packagesPath": "/Users/greendal/.nuget/packages/",
-      "outputPath": "/Users/greendal/Projects/MailSender/obj/",
+      "outputPath": "/Users/greendal/Documents/GitHub/Email-Sending-Software/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/greendal/.nuget/NuGet/NuGet.Config"
