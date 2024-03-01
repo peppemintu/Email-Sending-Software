@@ -1,5 +1,5 @@
 # Email-Sending-Software
-Little PET-project for C# practice. Automated email-sending software that allows template usage. 
+Little PET-project for C#, ASP.Net, DB practice. Automated email-sending software that allows template usage. 
 
 In plan: 
 - add UI
