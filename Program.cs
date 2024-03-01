@@ -1,6 +1,4 @@
-﻿using System.IO;
-
-namespace MailSender;
+﻿namespace MailSender;
 
 class Program
 {

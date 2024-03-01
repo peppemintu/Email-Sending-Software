@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2CF95A32-2DC6-40C6-9011-72002146EC10}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Core.Letter.Entity FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MailSender PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Database.Database.Interaction FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Core.Letter.Application FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Presentation.WebAPI FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MailSender.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="MailSender.cs" Line="16" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MailManager" expanded="True">
+            <Node name="MailSender" expanded="True">
+              <Node name="MailSender.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

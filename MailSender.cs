@@ -1,8 +1,6 @@
-﻿using System;
-using MailKit.Net.Smtp;
-using MailKit;
+﻿using MailKit.Net.Smtp;
 using MimeKit;
-//github test
+
 namespace MailSender;
 
 public class EmailService
