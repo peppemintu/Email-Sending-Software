@@ -4,4 +4,4 @@ Little PET-project for C# practice. Automated email-sending software that allows
 In plan: 
 - add UI
 - add ability to choose templates and their contains
-- addition of PosgreSQL to store templates and their data.
+- addition of database to store templates and their data.
